@@ -1,0 +1,19 @@
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.exe
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.exe
+C:\Users\luis\Desktop\Estructuras de Datos\ActividadGraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.pdb
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.exe.config
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.exe
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\bin\Debug\ActividadGraficoPorTortuga.pdb
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.csprojResolveAssemblyReference.cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.Form1.resources
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.Properties.Resources.resources
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.csproj.GenerateResource.Cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.csproj.CoreCompileInputs.cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.exe
+C:\Users\luis9\Desktop\Progra tareas\Actividad.GraficoPorTortuga\ActividadGraficoPorTortuga\obj\Debug\ActividadGraficoPorTortuga.pdb

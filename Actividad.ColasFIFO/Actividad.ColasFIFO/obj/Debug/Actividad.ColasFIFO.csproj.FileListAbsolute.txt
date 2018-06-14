@@ -1,0 +1,40 @@
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe.config
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.pdb
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Form1.resources
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Properties.Resources.resources
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.exe
+C:\Users\JOSE\Desktop\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe.config
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csprojResolveAssemblyReference.cache
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Form1.resources
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Properties.Resources.resources
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.GenerateResource.Cache
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.CoreCompileInputs.cache
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Desktop\EstructuraDeDatos-master\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe.config
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csprojResolveAssemblyReference.cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Form1.resources
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Properties.Resources.resources
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.GenerateResource.Cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.CoreCompileInputs.cache
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Desktop\Progra tareas\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe.config
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\bin\Debug\Actividad.ColasFIFO.pdb
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csprojResolveAssemblyReference.cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Form1.resources
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.Properties.Resources.resources
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.GenerateResource.Cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.csproj.CoreCompileInputs.cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.exe
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ColasFIFO\Actividad.ColasFIFO\obj\Debug\Actividad.ColasFIFO.pdb

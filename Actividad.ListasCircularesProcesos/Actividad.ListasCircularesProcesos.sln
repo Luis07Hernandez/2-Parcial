@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad.ListasCircularesProcesos", "Actividad.ListasCircularesProcesos\Actividad.ListasCircularesProcesos.csproj", "{0B25FC3C-1391-4F9F-9D1D-B4B978A2C9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B25FC3C-1391-4F9F-9D1D-B4B978A2C9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B25FC3C-1391-4F9F-9D1D-B4B978A2C9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B25FC3C-1391-4F9F-9D1D-B4B978A2C9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B25FC3C-1391-4F9F-9D1D-B4B978A2C9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB0D0F7-CF97-4F80-BA64-7530030AEB4E}
+	EndGlobalSection
+EndGlobal
