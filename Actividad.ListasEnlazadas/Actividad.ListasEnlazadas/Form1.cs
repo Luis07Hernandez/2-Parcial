@@ -12,7 +12,7 @@ namespace Actividad.ListasEnlazadas
 {
     public partial class Form1 : Form
     {
-        Agenda agenda = new Agenda();
+        Catalogo cat = new Catalogo();
 
         public Form1()
         {
@@ -21,27 +21,26 @@ namespace Actividad.ListasEnlazadas
 
         public void clear()
         {
-            txtBxTelefono.Text = "";
+            txtMarca.Text = "";
             txtBxNombre.Text = "";
-            txtBxEmail.Text = "";
-            txtBxEdad.Text = "";
-            txtBxAPaterno.Text = "";
-            txtBxAMaterno.Text = "";
-            txtBxTelBuscar.Text = "";
+            txtcColor.Text = "";
+            txtmModelo.Text = "";
+            txtpPlaca.Text = "";
+            txtBuscar.Text = "";
             txtBxNombre.Focus();        }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            Contacto cX = new Contacto();
+            Carro cX = new Carro();
 
             cX.Nombre = txtBxNombre.Text;
-            cX.APaterno = txtBxAPaterno.Text;
-            cX.AMaterno = txtBxAMaterno.Text;
-            cX.Telefono = txtBxTelefono.Text;
-            cX.Edad = txtBxEdad.Text;
-            cX.Email = txtBxEmail.Text;
+            cX.mModelo = txtmModelo.Text;
+            cX.pPlaca = txtpPlaca.Text;
+            cX.mMarca = txtMarca.Text;
+            cX.cColor = txtcColor.Text;
+            
 
-            agenda.agregar(cX);
+            cat.agregar(cX);
             MessageBox.Show("Contacto Agregado Correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
            
             clear();
@@ -49,69 +48,74 @@ namespace Actividad.ListasEnlazadas
 
         private void txtBxBuscar_Click(object sender, EventArgs e)
         {
-            Contacto contacto = agenda.buscar(txtBxTelBuscar.Text);
+            Carro carro = cat.buscar(txtBuscar.Text);
 
-            if (agenda.buscar(txtBxTelBuscar.Text) == null)
+            if (cat.buscar(txtBuscar.Text) == null)
             {
-                MessageBox.Show("Contacto No Encontrado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Auto No Encontrado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 clear();
             }
             else
             {
-                txtBxNombre.Text = contacto.Nombre;
-                txtBxAPaterno.Text = contacto.APaterno;
-                txtBxAMaterno.Text = contacto.AMaterno;
-                txtBxTelefono.Text = contacto.Telefono;
-                txtBxEdad.Text = contacto.Edad;
-                txtBxEmail.Text = contacto.Email;
-                MessageBox.Show("Contacto Encontrado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                txtBxNombre.Text = carro.Nombre;
+                txtmModelo.Text = carro.mModelo;
+                txtpPlaca.Text = carro.pPlaca;
+                txtMarca.Text = carro.mMarca;
+                txtcColor.Text = carro.cColor;
+                
+                MessageBox.Show("Auto Encontrado", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            agenda.eliminar(txtBxTelefono.Text);
-            MessageBox.Show("Contacto Eliminado Correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            cat.eliminar(txtMarca.Text);
+            MessageBox.Show("Auto Eliminado Correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             clear();
         }
 
         private void btnListar_Click(object sender, EventArgs e)
         {
-            txtBxTabla.Text = agenda.listar();
+            txtBxTabla.Text = cat.listar();
         }
 
         private void btnEliminarPrimero_Click(object sender, EventArgs e)
         {
-            agenda.eliminarPrimero();
+            cat.eliminarPrimero();
         }
 
         private void btnEliminarUltimo_Click(object sender, EventArgs e)
         {
-            agenda.eliminarUltimo();
+            cat.eliminarUltimo();
         }
 
         private void btnReporteInverso_Click(object sender, EventArgs e)
         {
-            txtBxTabla.Text = agenda.reporteInverso();
+            txtBxTabla.Text = cat.reporteInverso();
         }
 
         private void btnInvertirLista_Click(object sender, EventArgs e)
         {
-            agenda.invertirLista();
+            cat.invertirLista();
         }
 
         private void btnInsertar_Click(object sender, EventArgs e)
         {
-            Contacto cX = new Contacto();
+            Carro car = new Carro();
 
-            cX.Nombre = txtBxNombre.Text;
-            cX.APaterno = txtBxAPaterno.Text;
-            cX.AMaterno = txtBxAMaterno.Text;
-            cX.Telefono = txtBxTelefono.Text;
-            cX.Edad = txtBxEdad.Text;
-            cX.Email = txtBxEmail.Text;
+            car.Nombre = txtBxNombre.Text;
+            car.mModelo = txtmModelo.Text;
+            car.pPlaca = txtpPlaca.Text;
+            car.mMarca = txtMarca.Text;
+            car.cColor = txtcColor.Text;
+            
 
-            agenda.insertar(int.Parse(txtBxPosicion.Text), cX);
+            cat.insertar(int.Parse(txtPosicion.Text), car);
+        }
+
+        private void txtBxTelBuscar_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

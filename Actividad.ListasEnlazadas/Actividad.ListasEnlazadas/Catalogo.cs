@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Actividad.ListasEnlazadas
 {
-    class Agenda
+    class Catalogo
     {
         public int contador = 0;
-        private Contacto inicio, aux;
+        private Carro inicio, aux;
 
-        public void agregar(Contacto nuevo)
+        public void agregar(Carro nuevo)
         {
             if (inicio == null)
             {
@@ -65,12 +65,12 @@ namespace Actividad.ListasEnlazadas
 
         public void invertirLista()
         {
-            Contacto inicioNuevo = null, ultimoNuevo = inicio;
+            Carro inicioNuevo = null, ultimoNuevo = inicio;
             int con = contador;
             while (con != 0)
             {
                 aux = inicio;
-                Contacto sigNuevo = null;
+                Carro sigNuevo = null;
                 for (int x = 0; x < con - 1; x++)
                 {
                     aux = aux.Siguiente;
@@ -84,7 +84,7 @@ namespace Actividad.ListasEnlazadas
             inicio = inicioNuevo;
         }
 
-        public void agregar(Contacto nuevo, Contacto x)
+        public void agregar(Carro nuevo, Carro x)
         {
             if (x.Siguiente == null)
             {
@@ -95,13 +95,13 @@ namespace Actividad.ListasEnlazadas
                 agregar(nuevo, x.Siguiente);
         }
 
-        public Contacto buscar(string telefono)
+        public Carro buscar(string placa)
         {
             aux = inicio;
 
             while (aux != null)
             {
-                if (aux.Telefono == telefono) return aux;
+                if (aux.pPlaca == placa) return aux;
                 aux = aux.Siguiente;
             }
 
@@ -113,12 +113,12 @@ namespace Actividad.ListasEnlazadas
             bool encontrado = false;
             aux = inicio;
 
-            if (aux.Telefono == telefono) eliminarPrimero();
+            if (aux.pPlaca == telefono) eliminarPrimero();
             else
             {
                 while (aux != null && encontrado != true)
                 {
-                    if (aux.Siguiente.Telefono == telefono)
+                    if (aux.Siguiente.pPlaca == telefono)
                     {
                         aux.Siguiente = aux.Siguiente.Siguiente;
                         encontrado = true;
@@ -129,7 +129,7 @@ namespace Actividad.ListasEnlazadas
             }
         }
 
-        public void insertar(int pos, Contacto con)
+        public void insertar(int pos, Carro con)
         {
             int posReal = pos - 1;
             aux = inicio;
@@ -141,7 +141,7 @@ namespace Actividad.ListasEnlazadas
             }
             else
             {
-                Contacto sigNuevo;
+                Carro sigNuevo;
                 for (int x = 0; x < posReal - 1; x++) aux = aux.Siguiente;
                 sigNuevo = aux.Siguiente;
                 con.Siguiente = sigNuevo;
@@ -154,7 +154,7 @@ namespace Actividad.ListasEnlazadas
             aux = inicio;
             string cadena = "";
 
-            while(aux != null)
+            while (aux != null)
             {
                 cadena += aux.ToString() + Environment.NewLine;
                 aux = aux.Siguiente;
@@ -162,5 +162,6 @@ namespace Actividad.ListasEnlazadas
 
             return cadena;
         }
-    }
+    
+}
 }

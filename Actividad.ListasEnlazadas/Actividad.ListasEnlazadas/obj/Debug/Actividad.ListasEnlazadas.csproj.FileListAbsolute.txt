@@ -38,3 +38,13 @@ C:\Users\JOSE\Desktop\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\De
 C:\Users\JOSE\Desktop\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.csproj.CoreCompileInputs.cache
 C:\Users\JOSE\Desktop\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.exe
 C:\Users\JOSE\Desktop\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.pdb
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\bin\Debug\Actividad.ListasEnlazadas.exe.config
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\bin\Debug\Actividad.ListasEnlazadas.exe
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\bin\Debug\Actividad.ListasEnlazadas.pdb
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.csprojResolveAssemblyReference.cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.Form1.resources
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.Properties.Resources.resources
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.csproj.GenerateResource.Cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.exe
+C:\Users\luis9\Documents\GitHub\2-Parcial\Actividad.ListasEnlazadas\Actividad.ListasEnlazadas\obj\Debug\Actividad.ListasEnlazadas.pdb
